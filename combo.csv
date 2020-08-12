@@ -1,0 +1,34 @@
+foundid,id,name,party,partyLabel,votes,election,electionLabel,ranking
+,Q8004339,William Allen,Q841045,Ulster Unionist Party,29021,Q2632991,General election 1924,1
+,,James McKee,Q76382,Sinn Féin,11756,Q2632991,General election 1924,2
+,Q8004339,William Allen,Q841045,Ulster Unionist Party,29966,Q517639,General election 1929,1
+,,William Todd,Q7879983,Ulster Liberal Party,13052,Q517639,General election 1929,2
+,Q8004339,William Allen,Q841045,Ulster Unionist Party,34002,Q918378,General election 1935,1
+,Q5080831,Charles McGleenan,Q16847164,Independent Republican (Ireland),16284,Q918378,General election 1935,2
+,Q7326262,James Harden,Q841045,Ulster Unionist Party,36200,Q4792595,1948 Armagh by-election,1
+,Q16012852,James O'Reilly,Q6070490,Anti-Partition of Ireland League,24422,Q4792595,1948 Armagh by-election,2
+,Q5006934,C. W. Armstrong,Q841045,Ulster Unionist Party,38617,Q918412,General election 1955,1
+,,Tomás Mac Curtain,Q76382,Sinn Féin,21363,Q918412,General election 1955,2
+,Q16015196,John Maginnis,Q841045,Ulster Unionist Party,40325,Q918420,General election 1959,1
+,,John Lynch,Q76382,Sinn Féin,6823,Q918420,General election 1959,2
+,Q16015196,John Maginnis,Q841045,Ulster Unionist Party,35223,Q220208,General election 1964,1
+,,John Lynch,Q16847164,Independent Republican (Ireland),12432,Q220208,General election 1964,2
+,,Samuel Ewart,Q7058511,Northern Ireland Labour Party,6523,Q220208,General election 1964,3
+,Q16015196,John Maginnis,Q841045,Ulster Unionist Party,34687,Q918430,General election 1966,1
+,Q5080831,Charles McGleenan,Q16847164,Independent Republican (Ireland),13467,Q918430,General election 1966,2
+,Q16015196,John Maginnis,Q841045,Ulster Unionist Party,37667,Q918442,General election 1970,1
+,,Hugh Lewis,Q1650977,Unity (Northern Ireland),21696,Q918442,General election 1970,2
+,Q24055730,Erskine Holmes,Q7058511,Northern Ireland Labour Party,8781,Q918442,General election 1970,3
+,Q5661723,Harold McCusker,Q841045,Ulster Unionist Party,33194,Q119524,General election February 1974,1
+,Q7123582,Paddy O'Hanlon,Q175443,Social Democratic and Labour Party,18090,Q119524,General election February 1974,2
+,Q16729319,Robin Glendinning,Q244927,Alliance Party of Northern Ireland,4983,Q119524,General election February 1974,3
+Q98273211,,Thomas Moore,Q1860218,Republican Clubs,4129,Q119524,General election February 1974,4
+,,Hugh Lewis,Q1650977,Unity (Northern Ireland),1364,Q119524,General election February 1974,5
+,Q5661723,Harold McCusker,Q841045,Ulster Unionist Party,37518,Q918508,General election October 1974,1
+,Q3476695,Seamus Mallon,Q175443,Social Democratic and Labour Party,19855,Q918508,General election October 1974,2
+,Q6740860,Malachy McGurran,Q1860218,Republican Clubs,5138,Q918508,General election October 1974,3
+,Q5661723,Harold McCusker,Q841045,Ulster Unionist Party,31668,Q918450,General election 1979,1
+,Q3476695,Seamus Mallon,Q175443,Social Democratic and Labour Party,23545,Q918450,General election 1979,2
+,Q5232104,Davy Calvert,Q215519,Democratic Unionist Party,5634,Q918450,General election 1979,3
+Q98273211,,Thomas Moore,Q1860218,Republican Clubs,2310,Q918450,General election 1979,4
+Q98270643,,William Ramsay,Q244927,Alliance Party of Northern Ireland,2074,Q918450,General election 1979,5
