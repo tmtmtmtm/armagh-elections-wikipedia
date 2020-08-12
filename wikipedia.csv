@@ -1,21 +1,4 @@
 id,name,party,partyLabel,votes,election,electionLabel,ranking
-Q5075839,Charles Brownlow,Q499956,Tories (British political party),1839,Q556715,General election 10 July 1818,1
-Q16741843,William Richardson,Q499956,Tories (British political party),1673,Q556715,General election 10 July 1818,2
-,Henry Caulfeild,Q108700,Whigs (British political party),1261,Q556715,General election 10 July 1818,3
-,Henry Caulfeild,Q108700,Whigs (British political party),2897,Q623211,General election 29 June 1826,1
-Q5075839,Charles Brownlow,Q108700,Whigs (British political party),2563,Q623211,General election 29 June 1826,2
-Q16065605,William Verner,Q499956,Tories (British political party),1894,Q623211,General election 29 June 1826,3
-,John Ynyr Burgess,Q499956,Tories (British political party),730,Q623211,General election 29 June 1826,4
-Q6796085,Maxwell Close,Q9626,Conservative Party (UK),940,Q4345446,General election 16 April 1857,1
-Q16065605,William Verner,Q9626,Conservative Party (UK),928,Q4345446,General election 16 April 1857,2
-Q6131153,James Caulfeild,Q108700,Whigs (British political party),6,Q4345446,General election 16 April 1857,3
-Q5345715,Edward Wingfield Verner,Q9626,Conservative Party (UK),3527,Q918351,General election 7 February 1874,1
-Q6796085,Maxwell Close,Q9626,Conservative Party (UK),3469,Q918351,General election 7 February 1874,2
-,Frederick William McBlaine,Q622441,Liberal Party (UK),1673,Q918351,General election 7 February 1874,3
-Q15435293,James Richardson,Q622441,Liberal Party (UK),2738,Q2074515,General election 9 April 1880,1
-Q6796085,Maxwell Close,Q9626,Conservative Party (UK),2654,Q2074515,General election 9 April 1880,2
-,St John Thomas Blacker,Q9626,Conservative Party (UK),2275,Q2074515,General election 9 April 1880,3
-Q16062899,William Verner,Q9626,Conservative Party (UK),1781,Q2074515,General election 9 April 1880,4
 Q8004339,William Allen,Q841045,Ulster Unionist Party,29021,Q2632991,General election 1924,1
 ,James McKee,Q76382,Sinn Féin,11756,Q2632991,General election 1924,2
 Q8004339,William Allen,Q841045,Ulster Unionist Party,29966,Q517639,General election 1929,1
